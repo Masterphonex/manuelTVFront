@@ -1,3 +1,3 @@
-const backendURL = 'https://manueltvback-384a.onrender.com'; // Replace this with your actual backend URL
+const backendURL = 'https://shy-gold-parrot-tutu.cyclic.app/api/posts'; // Replace this with your actual backend URL
 
 export default backendURL;
